@@ -6,4 +6,4 @@
 
 **lab3.sh**  Set Up Network and HTTP Load Balancers
 
-**lab4.sh  **  Implement Load Balancing on Compute Engine
+**lab4.sh**  Implement Load Balancing on Compute Engine
